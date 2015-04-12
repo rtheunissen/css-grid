@@ -6,7 +6,7 @@
     "Rudi Theunissen <rudolf.theunissen@gmail.com>"
   ],
   "description": "Bootstrap 3 CSS grid with a few adjustments",
-  "main": "grid.less",
+  "main": "src/grid.less",
   "keywords": [
     "bootstrap",
     "grid",

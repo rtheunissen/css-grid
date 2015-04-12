@@ -1,3 +1,4 @@
+@import 'constants';
 
 //
 // Grid system
@@ -22,6 +23,9 @@
   }
 }
 
+
+// Use inline-block rather than float: left.
+// Because floats are evil.
 .float() {
   display: inline-block;
   vertical-align: @grid-vertical-align;
